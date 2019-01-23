@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "271972587567",
+    "firebase_url": "https://leccion-jarvis.firebaseio.com",
+    "project_id": "leccion-jarvis",
+    "storage_bucket": "leccion-jarvis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271972587567:android:b17db882f8e5f6d5",
+        "android_client_info": {
+          "package_name": "com.example.redes.leccion_jarvis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271972587567-q605goejsub8jcrl17a4loql25jrvqeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByWpZAQFgdEtzPNtPrNK6WGQ9PpVcySP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
